@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Daniel Valdes
 
-# Your Github username
+# Devalt24
